@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/GridPopupMenu/Default.aspx) (VB: [Default.aspx.vb](./VB/GridPopupMenu/Default.aspx.vb))
+* [Default.aspx.cs](./CS/GridPopupMenu/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/GridPopupMenu/Default.aspx.vb))
+<!-- default file list end -->
 # How to display a popup menu for grid column headers or rows
 
 
