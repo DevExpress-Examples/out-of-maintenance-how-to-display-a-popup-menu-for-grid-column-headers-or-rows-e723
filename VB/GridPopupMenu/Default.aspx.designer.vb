@@ -35,7 +35,7 @@ Namespace GridPopupMenu
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected ASPxGridView1 As Global.DevExpress.Web.ASPxGridView.ASPxGridView
+		Protected ASPxGridView1 As Global.DevExpress.Web.ASPxGridView
 
 		''' <summary>
 		''' pmColumnMenu control.
@@ -44,7 +44,7 @@ Namespace GridPopupMenu
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected pmColumnMenu As Global.DevExpress.Web.ASPxMenu.ASPxPopupMenu
+		Protected pmColumnMenu As Global.DevExpress.Web.ASPxPopupMenu
 
 		''' <summary>
 		''' pmRowMenu control.
@@ -53,6 +53,6 @@ Namespace GridPopupMenu
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected pmRowMenu As Global.DevExpress.Web.ASPxMenu.ASPxPopupMenu
+		Protected pmRowMenu As Global.DevExpress.Web.ASPxPopupMenu
 	End Class
 End Namespace

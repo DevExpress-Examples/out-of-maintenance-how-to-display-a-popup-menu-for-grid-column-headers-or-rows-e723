@@ -35,7 +35,7 @@ namespace GridPopupMenu {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxGridView.ASPxGridView ASPxGridView1;
+        protected global::DevExpress.Web.ASPxGridView ASPxGridView1;
         
         /// <summary>
         /// pmColumnMenu control.
@@ -44,7 +44,7 @@ namespace GridPopupMenu {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxMenu.ASPxPopupMenu pmColumnMenu;
+        protected global::DevExpress.Web.ASPxPopupMenu pmColumnMenu;
         
         /// <summary>
         /// pmRowMenu control.
@@ -53,6 +53,6 @@ namespace GridPopupMenu {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxMenu.ASPxPopupMenu pmRowMenu;
+        protected global::DevExpress.Web.ASPxPopupMenu pmRowMenu;
     }
 }
